@@ -2,7 +2,7 @@
 
 Bash script buat ngurusin VPS dari terminal. Bisa backup full server, backup Pterodactyl, restore panel, pindah server ke VPS baru, sama hardening firewall.
 
-Cuma satu file bash. Gak butuh Python atau dependency aneh-aneh.
+# KALAU MAU NIMPA, DIPIKIR MAS😂
 
 ## Fitur
 
